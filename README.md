@@ -95,7 +95,7 @@ cd AuctionSystem
 mvn clean package
 ```
 
-#### Buil Emailer
+#### Build Emailer
 
 ```
 cd ../emailer
